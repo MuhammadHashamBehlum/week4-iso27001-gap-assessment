@@ -23,6 +23,13 @@ The assessment reviews **15 Annex A controls** across the following four securit
 - Physical Controls
 - Technological Controls
 
+## Tools & Framework
+
+- ISO/IEC 27001:2022
+- ISO/IEC 27001 Annex A
+- Governance, Risk and Compliance (GRC)
+- Information Security Management System (ISMS)
+
 ## Repository Contents
 
 - **gap-assessment.md** – Executive summary of the ISO/IEC 27001 gap assessment.
