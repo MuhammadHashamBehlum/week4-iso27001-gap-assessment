@@ -1,0 +1,16 @@
+Control,Objective,Current State,Rating,Gap,Recommendation
+A.5.1,Information Security Policies,Policies exist but require review,Partially Implemented,Policies are outdated,Annual policy review process
+A.5.7,Threat Intelligence,Informal monitoring activities,Partially Implemented,Reactive threat intelligence,Implement structured threat intelligence
+A.5.9,Asset Inventory,Hardware documented,Largely Implemented,Cloud assets incomplete,Automated asset inventory
+A.5.23,Cloud Security,Basic cloud controls implemented,Partially Implemented,Limited governance,Develop cloud security policy
+A.6.3,Security Awareness,Annual employee training,Largely Implemented,Contractors excluded,Expand awareness programme
+A.6.5,Termination Responsibilities,Manual account removal,Partially Implemented,Delayed deprovisioning,Automate account removal
+A.6.8,Incident Reporting,Reporting procedures exist,Largely Implemented,Inconsistent reporting,Standardize reporting process
+A.7.2,Physical Entry Controls,Access cards implemented,Fully Implemented,Minor visitor documentation,Review visitor records
+A.7.4,Physical Security Monitoring,CCTV deployed,Fully Implemented,Limited storage room coverage,Expand CCTV coverage
+A.7.8,Equipment Protection,Secure server room,Largely Implemented,Environmental monitoring limited,Install environmental sensors
+A.8.2,Privileged Access Rights,Administrator accounts managed,Partially Implemented,Reviews inconsistent,Quarterly privileged access reviews
+A.8.5,Secure Authentication,MFA for administrators,Largely Implemented,Users lack MFA,Expand MFA
+A.8.15,Logging,Centralized logging,Largely Implemented,Manual log reviews,Automate SIEM monitoring
+A.8.16,Monitoring Activities,Critical systems monitored,Partially Implemented,Cloud visibility limited,Expand monitoring coverage
+A.8.8,Technical Vulnerability Management,Monthly vulnerability scanning,Largely Implemented,Remediation inconsistent,Risk-based remediation timelines
